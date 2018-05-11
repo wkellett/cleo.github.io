@@ -5,10 +5,10 @@ title: Welcome to DDF
 
 ## Welcome to DDF
 
-Cleo DDF allows you exchange files across geographically diverse servers running on  
+Cleo DDF allows you exchange files across geographically diverse servers running on several operating systems.  
 
-[Getting Started with DDF](GettingStarted.html)
+[Getting Started with DDF](DDF_GettingStarted.html)
 
-[Using DDF](UsingDDF.html)
+[Using DDF](DDF_UsingDDF.html)
 
-[Maintaining DDF](MaintainingDDF.html)
+[Maintaining DDF](DDF_MaintainingDDF.html)
