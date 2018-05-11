@@ -2,8 +2,7 @@
 layout: default
 title: About this website
 ---
+## This website
 
-		<div class="blurb">
-			<h1>This website</h1>
-			<p>This website is about all things Cleo.</p>
-		</div>
+This website is about all things Cleo.
+
