@@ -1,3 +1,8 @@
+---
+layout: default
+title: Adding an Access Point
+---
+
 # Adding an Access Point
 
 Adding an access point requires you to log into the Cleo Integration Cloud server to get a script that you then run on the machine where you want to add the access point.
@@ -13,4 +18,4 @@ The script to install the local software and instructions on how to run the scri
 
 After you add an access point, you are ready to add data stores.
 
-Parent topic&mdash;[Getting Started with DDF](../DDF_GettingStarted.html)
+
