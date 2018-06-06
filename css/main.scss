@@ -1,0 +1,152 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700');
+
+$pageGutter: 2.5em;
+
+body{
+  background-color: #f5f4f2;
+  margin: 0;
+  color: #504740;
+  font-size: 16px;
+  line-height: 1.25em;
+  font-family: 'Source Sans Pro', sans-serif;
+  @media (max-width: 991px) {
+    font-size: 14px;
+  }
+}
+nav {
+  display: block;
+  overflow: hidden;
+  width: 100%;
+  height: 4.125em;
+  background-color: #665d57;
+  a.logo {
+    display: block;
+    width: 14.875em;
+    height: 1.8125em;
+    margin: 1.1em 0 1.1em $pageGutter;
+    overflow: hidden;
+    background-image: url('../images/logo.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}
+.container {
+  margin: 1.1em $pageGutter;
+  padding: 3em 6.5em 1.5em 6.5em;
+  display: block;
+  overflow: hidden;
+  background: #FFF;
+  min-height: calc(100VH - 4.125em - 3.75em - 2.2em - 4.5em);
+  ul {
+    li {
+      line-height: 2em;
+    }
+  }
+  .right {
+    width: 100%;
+  }
+  .left {
+    width: calc(20% - .5em);
+    display: inline-block;
+    float: left;
+    padding: 0 .5em 0 0;
+    ul {
+      margin: 0;
+      padding: 0;
+      li {
+        color: #047ebf;
+      }
+    }
+    ~ .right {
+      width: calc(80% - .5em);
+      display: inline-block;
+      float: left;
+      padding: 0 0 0 .5em;
+    }
+  }
+  img {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 1em;
+  }
+  @media (max-width: 991px) {
+    padding: 2em 3em 1.5em 3em;
+    .left,
+    .right,
+    .left ~ .right {
+      width: 100%;
+      display: block;
+      float: none;
+      padding: 0;
+    }
+    .left {
+      ul {
+        list-style-type: none;
+        margin: 0 0 2em 0;
+        padding: 0;
+        display: inline-block;
+        li {
+          display: inline;
+          margin: 0;
+          padding: 0 .5em 0 0;
+          &:last-of-type {
+            padding: 0 0 0 0;
+          }
+        }
+      }
+    }
+  }
+}
+footer {
+  height: 3.75em;
+  display: block;
+  overflow: hidden;
+  background: transparent;
+  margin: 0;
+  padding: 0 $pageGutter;
+}
+h1,
+h2 {
+  font-size: 2.625em;
+  line-height: 1em;
+  padding: 0;
+  margin: 0 0 .75em 0;
+  font-weight: bold;
+}
+p {
+  margin: 0 0 .75em 0;
+  padding: 0;
+  ~ h1,
+  ~ h2 {
+    margin-top: .75em;
+  }
+}
+a,
+a:visited {
+  text-decoration: none;
+  line-height: 1.1em;
+  color: #047ebf;
+  &:hover {
+    text-decoration: underline;
+    color: #047ebf;
+  }
+}
+.pull-left {
+  float: left;
+}
+.pull-right {
+  float: right;
+}
+.pull-left,
+.pull-right {
+  width: auto;
+  display: inline-block;
+  @media (max-width: 991px) {
+    width: 100%;
+    display: block;
+    float: none;
+  }
+}
