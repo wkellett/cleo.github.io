@@ -22,6 +22,15 @@ You can filter the messages displayed as follows:
 - By message type -- Select one or more message types to display just those message types. Deselect a message type to hide those messages. All messages are displayed when no message types are highlighted. 
 - By date -- Select a date range to display messages that were sent in that range.
 
+Each tile provides details about a single message.
+![Message Tile Detail](../images/MessageDetailTile.png)
+
+There are four FA status icons indicating different status:
+1.
+2.
+3.
+4.
+
 Click any message tile to display the Context view. 
 
 ## Context view
