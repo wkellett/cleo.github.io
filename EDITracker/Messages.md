@@ -12,8 +12,6 @@ The Messages page displays information about messages on your system in one of t
 
 By default, the Messages page displays the Tile view.
 
-![Messages Page Tile View](../images/AnnotatedB2BiMsgsPage.png)
-
 In Tile view, the main part of the page is an array of tiles containing high-level information about messages from your system and the left column contains some controls for filtering the messages displayed.
 
 ![Messages Page Tile View](../images/AnnotatedB2BiMsgsPage.png)
