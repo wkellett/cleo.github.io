@@ -26,8 +26,8 @@ Each tile provides details about a single message.
 ![Message Tile Detail](../images/MessageDetailTile.png)
 
 There are four FA status icons indicating different status:
-| Icon          | Description           |
-|-------------|------------|
+| Icon  | Descrption |
+| --- | --- |
 | ![FASuccess](../images/FASuccessIcon.png)      | Successful acknowledgment|
 | ![FAError](../images/FAErrorIcon.png)      | Error with acknowledgment      |
 | ![FANotReceived](../images/FANotRcvdIcon.png) | Acknowledgment not received |
