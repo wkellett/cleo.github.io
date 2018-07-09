@@ -26,11 +26,11 @@ Each tile provides details about a single message.
 ![Message Tile Detail](../images/MessageDetailTile.png)
 
 There are four FA status icons indicating different status:
- ![FASuccess](../images/FASuccessIcon.png) - FA Success
- ![FAError](../images/FAErrorIcon.png) - FA Error
- ![FANotReceived](../images/FANotRcvdIcon.png) - FA not received
- ![FANotExpected](../images/FANotExpctdIcon.png) - FA not expected
-</sl>
+
+ - ![FASuccess](../images/FASuccessIcon.png) - FA Success
+ - ![FAError](../images/FAErrorIcon.png) - FA Error
+ - ![FANotReceived](../images/FANotRcvdIcon.png) - FA not received
+ - ![FANotExpected](../images/FANotExpctdIcon.png) - FA not expected
 
 Click any message tile to display the Context view. 
 
