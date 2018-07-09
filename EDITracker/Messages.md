@@ -26,7 +26,11 @@ Each tile provides details about a single message.
 ![Message Tile Detail](../images/MessageDetailTile.png)
 
 There are four FA status icons indicating different status:
-
+| Icon          | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| ![FASuccess](../images/FASuccessIcon.png)      | right-aligned | $1600 |
+| ![FAError](../images/FAErrorIcon.png)      | centered      |   $12 |
+| ![FANotReceived](../images/FANotRcvdIcon.png) | are neat      |    $1 
  - ![FASuccess](../images/FASuccessIcon.png) - FA Success
  - ![FAError](../images/FAErrorIcon.png) - FA Error
  - ![FANotReceived](../images/FANotRcvdIcon.png) - FA not received
