@@ -26,7 +26,10 @@ Each tile provides details about a single message.
 ![Message Tile Detail](../images/MessageDetailTile.png)
 
 There are four FA status icons indicating different status:
-1.
+- ![FASuccess](../images/FASuccessIcon.png)
+- ![FAError](../images/FAErrorIcon.png)
+- ![FANotReceived](../images/FANotRcvdIcon.png)
+- ![FANotExpected](../images/FANotExpctdIcon.png)
 2.
 3.
 4.
@@ -36,7 +39,7 @@ Click any message tile to display the Context view.
 ## Context view
 The Context view displays the message you clicked as part of a series of related messages. 
 
-![Messages Page Context View](../images/B2BiMessagePageContextView1.png)
+![Messages Page Context View](../images/B2BiMessagePageContextView3.png)
 
 The left column displays a set of tiles (one message per tile) listed in chronological order. By default, the main part of the page displays detailed about the first message in the list. Click any tile in the left column to display detailed information about that message in the main part of the page.
 
