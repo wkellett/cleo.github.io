@@ -18,7 +18,7 @@ In Tile view, the main part of the page is an array of tiles containing high-lev
 
 You can filter the messages displayed as follows:
 - By partner -- In the **Partners** field, enter a partner's name or ID to display only messages pertaining to that partner. You must enter the entire name or ID. 
-- By message -- In the **Messages**, enter a message ID to display the matching message. You must enter the entire message ID.
+- By message -- In the **Messages** field, enter a message ID to display the matching message. You must enter the entire message ID.
 - By message type -- Select one or more message types to display just those message types. Deselect a message type to hide those messages. All messages are displayed when no message types are highlighted. 
 - By date -- Select a date range to display messages that were sent in that range.
 
