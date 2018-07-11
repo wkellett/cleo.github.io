@@ -8,7 +8,7 @@ The Messages page displays information about messages on your system in one of t
 - Tile view
 - Context view
 
-### Tile view
+## Tile view
 
 By default, the Messages page displays the Tile view.
 
