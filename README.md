@@ -1,6 +1,6 @@
 # Cleo Technical Blog
 
-This is where the Cleo technical blog will go.
+Welcome to the Cleo Technical Blog!
 
 Learn more about: 
 - [EDI Tracker](/EDITracker/index.html)
