@@ -6,6 +6,8 @@ page title: Activity page
 
 The Activity page provides a series of tiles that each display graphical information about message activity on your system.
 
+![Activity Page](../images/ActivityPage1.png)
+
 You can select a date range for which data is displayed.
 
 The Issues tile displays information about issues related to the messages on your system.
