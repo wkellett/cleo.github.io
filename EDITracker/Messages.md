@@ -58,7 +58,7 @@ If you click a message with a Issue status icon (open or resolved), the right pa
 The Summary tab displays detailed information about the message.
 ![Summary tab](../images/SummaryTab.png)
 
-The Issue tab displays information extracted from the issue tracking system.
+The Issue tab displays information about the issue related to the message extracted from the issue tracking system.
 ![Issue tab](../images/IssueTab.png)
 
 Click Messages to return to the Tile view of the Messages page.
