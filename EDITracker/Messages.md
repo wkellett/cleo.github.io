@@ -34,7 +34,7 @@ There are two possible issue status icons.
 | ![Open Issue](../images/OpenIssueFlag.png)      | There is an open issue associated with this message.|
 | ![Resolved Issue](../images/ResolvedIssueFlag.png)      | There was an issue associated with this message that has been resolved.|
 
-
+<br>
 There are four possible functional acknowledgment (FA) status icons.
 
 | Icon  | Descrption |
