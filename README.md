@@ -3,6 +3,6 @@
 Welcome to the Cleo Technical Blog!
 
 Learn more about: 
-- [EDI Tracker](/EDITracker/index.html)
+- [EDI Tracker](/cleo.github.io/EDITracker/index.html)
 <!-- - [DDF](/DDF/index.html)-->
-
+/cleo
