@@ -6,13 +6,13 @@ title: Partners page
 
 The Partners page displays a list of partners that includes each partner's name, ID, and the users who have access to the partner.
 
-![Partners Page](../images/PartnerPage1.png)
+![Partners Page](../images/PartnersPage1.png)
 
 You can update a partner’s name and the list of users who have access to a partner.
 
 Click a partner on the list to highlight it and enable the buttons
 
-![Partners Page with partner selected](../images/PartnerPage2.png)
+![Partners Page with partner selected](../images/PartnersPage2.png)
 
 - Click the Update Trading Partner Name button to display the Rename dialog box. Enter a new value in the Partner Name field and click Rename.
 - Click the Update Trading Partner Permissions button to display the Edit Access dialog box.
