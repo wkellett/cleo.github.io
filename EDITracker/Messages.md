@@ -27,6 +27,12 @@ You can filter the messages displayed as follows:
 Each tile provides details about a single message.
 ![Message Tile Detail](../images/MessageDetailTile.png)
 
+There are two possible issue status icons.
+
+| Icon | Description |
+| --- | --- |
+
+
 There are four possible functional acknowledgment (FA) status icons.
 
 | Icon  | Descrption |
