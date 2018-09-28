@@ -21,6 +21,6 @@ Click a partner on the list to highlight it and enable the buttons
 - Click the Update Trading Partner Permissions button to display the Edit Access dialog box.
 Select a check box to enable access to this partner for that user. Clear a check box to disable access to the selected partner for that user.
 
-![Partners Rename dialog box](../images/PartnersEditAccess.png)
+![Partners Rename dialog box](../images/PartnersEditAccessDialog.png)
 
 
