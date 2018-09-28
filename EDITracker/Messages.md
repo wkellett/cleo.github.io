@@ -54,10 +54,13 @@ The Context view displays the message you clicked as part of a series of related
 The left column displays a set of tiles (one message per tile) listed in chronological order. By default, the main part of the page displays detailed information about the message you clicked in the Tile view. To view detailed information about another message, click the corresponding tile in the left column.
 
 If you click a message with a Issue status icon (open or resolved), the right pane displays two tabs: Summary and Issue. 
+
 The Summary tab displays detailed information about the message.
 ![Summary tab](../images/SummaryTab.png)
+
 The Issue tab displays information extracted from the issue tracking system.
 ![Issue tab](../images/IssueTab.png)
+
 Click Messages to return to the Tile view of the Messages page.
 
 ![Link from Context View to Tile View](../images/B2BiMessagePageContextView2.png)
