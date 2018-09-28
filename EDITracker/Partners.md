@@ -6,6 +6,8 @@ title: Partners page
 
 The Partners page displays a list of partners that includes each partner's name, ID, and the users who have access to the partner.
 
+[!Partners Page](/images/PartnerPage1.png)
+
 You can update a partner’s name and the list of users who have access to a partner.
 
 Click a partner on the list to highlight it and do one of the following:
