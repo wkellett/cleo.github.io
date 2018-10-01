@@ -6,10 +6,6 @@ title: Welcome to Cleo APIs
 
 Here you can find information about Cleo APIs.
 
-[Logging In](LoggingIn.html)
+[Connector API](/Connector/index.html)
 
-[Messages](Messages.html)
 
-[Activity](Activity.html)
-
-[Partners](Partners.html)
