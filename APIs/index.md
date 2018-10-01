@@ -6,6 +6,6 @@ title: Welcome to Cleo APIs
 
 Here you can find information about Cleo APIs.
 
-[Connector API](/cleo.github.io/connector/index.html)
+[Connector API](/cleo.github.io/APIs/connector/index.html)
 
 
