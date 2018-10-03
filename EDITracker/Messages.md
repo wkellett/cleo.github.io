@@ -1,5 +1,5 @@
 ---
-layout: EDITracker_Layout
+layout: EDITracker
 title: Messages page
 ---
 # Messages page
