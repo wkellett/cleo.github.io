@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: EDITracker
 title: Partners page
 ---
 # Partners page
