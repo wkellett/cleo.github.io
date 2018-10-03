@@ -1,6 +1,6 @@
 ---
 layout: EDITracker
-page title: Activity page
+page title: Activities page
 ---
 # Activity page
 
