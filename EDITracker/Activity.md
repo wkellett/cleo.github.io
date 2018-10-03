@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: EDITracker
 page title: Activity page
 ---
 # Activity page
