@@ -4,6 +4,7 @@ title: Partners page
 ---
 # Partners page
 
+
 The Partners page displays a list of partners that includes each partner's name, ID, and the users who have access to the partner. The Partners page is available only to administrators. 
 
 ![Partners Page](../images/PartnersPage1.png)
