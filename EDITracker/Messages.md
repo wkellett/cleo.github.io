@@ -60,7 +60,14 @@ The Summary tab displays detailed information about the message.
 
 The Issue tab displays information about the issue related to the message extracted from the issue tracking system.
 ![Issue tab](../images/IssueTab.png)
+The comments from the ticket are displayed in the Comments section of the Ticket tab.
 
+Ticket description and comments can have attachments. Click on an attachment to open it in a browser. 
+
+You can add comments to the ticket in the Comments text box.
+
+You can follow the ticket by clicking the Follow button at the top right corner of the . A user who is following the ticket gets notified via email whenever the ticket is updated. (edited)
+![Issue tab annotated](../images/IssueTab_annotated.png)
 Click Messages to return to the Tile view of the Messages page.
 
 ![Link from Context View to Tile View](../images/B2BiMessagePageContextView2.png)
