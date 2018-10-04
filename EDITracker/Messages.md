@@ -71,6 +71,7 @@ Ticket description and comments can have attachments. Click on an attachment to 
 
 You can add your own comments to the ticket in the Comments text box.
 
+
 Click Messages to return to the Tile view of the Messages page.
 
 ![Link from Context View to Tile View](../images/B2BiMessagePageContextView2.png)
