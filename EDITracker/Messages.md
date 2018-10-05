@@ -55,11 +55,25 @@ The left column displays a set of tiles (one message per tile) listed in chronol
 
 If you click a message with a Issue status icon (open or resolved), the right pane displays two tabs: Summary and Issue. 
 
+### Summary tab
 The Summary tab displays detailed information about the message.
+
 ![Summary tab](../images/SummaryTab.png)
 
+### Issue tab
 The Issue tab displays information about the issue related to the message extracted from the issue tracking system.
 ![Issue tab](../images/IssueTab.png)
+
+The comments from the issue are displayed in the Comments section of the Issue tab. 
+
+![Issue tab annotated](../images/IssueTabAnnotated.png)
+
+You can follow the issue by clicking the Follow button at the top right corner of the Issues tab. A user who is following the issue is notified via email whenever the ticket is updated.
+
+Issue description and comments can have attachments. Click on an attachment to open it in a browser. 
+
+You can add your own comments to the ticket in the Comments text box.
+
 
 Click Messages to return to the Tile view of the Messages page.
 
