@@ -66,7 +66,7 @@ The comments from the ticket are displayed in the Comments section of the Ticket
 
 ![Issue tab annotated](../images/IssueTabAnnotated.png)
 
-You can follow the ticket by clicking the Follow button at the top right corner of the . A user who is following the ticket gets notified via email whenever the ticket is updated.
+You can follow the ticket by clicking the Follow button at the top right corner of the Issues tab. A user who is following the ticket gets notified via email whenever the ticket is updated.
 
 Ticket description and comments can have attachments. Click on an attachment to open it in a browser. 
 
