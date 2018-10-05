@@ -55,14 +55,16 @@ The left column displays a set of tiles (one message per tile) listed in chronol
 
 If you click a message with a Issue status icon (open or resolved), the right pane displays two tabs: Summary and Issue. 
 
+###Summary tab
 The Summary tab displays detailed information about the message.
 
 ![Summary tab](../images/SummaryTab.png)
 
+###Issue tab
 The Issue tab displays information about the issue related to the message extracted from the issue tracking system.
 ![Issue tab](../images/IssueTab.png)
 
-The comments from the ticket are displayed in the Comments section of the Ticket tab. 
+The comments from the ticket are displayed in the Comments section of the Issue tab. 
 
 ![Issue tab annotated](../images/IssueTabAnnotated.png)
 
