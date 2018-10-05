@@ -11,7 +11,7 @@ The Partners page displays a list of partners that includes each partner's name,
 
 You can update a partner’s name and the list of users who have access to a partner.
 
-Click a partner on the list to highlight it and enable the buttons
+Click a partner on the list to highlight it and enable the buttons.
 
 ![Partners Page with partner selected](../images/PartnersPage2.png)
 
