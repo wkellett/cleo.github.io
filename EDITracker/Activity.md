@@ -14,4 +14,6 @@ The Issues tile displays information about issues related to the messages on you
 
 The Top Partners with Open Issues displays information about partners who have the most open issues. 
 
-Each of the remaining tiles display information about activity on your system related a single type of message. Click the tile to display the Messages page filtered on the type of message you clicked on. See [Messages page](Messages.html).
+Each of the remaining tiles display information about the number of messages of a single type sent or received over a period of time and, if any exists, monetary amounts associated with those messages. 
+
+Click a tile to display the Messages page filtered on the type of message you clicked on. See [Messages page](Messages.html).
