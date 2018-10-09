@@ -4,7 +4,7 @@ title: Cleo Connector API
 ---
 ## Cleo Connector API
 
-The Cleo Connector API allows you to...
+The Cleo Connector API allows new connector technologies to be plugged in, configured, and used by the administrator.
 
 [Sample project](SampleProjects.html)
 
