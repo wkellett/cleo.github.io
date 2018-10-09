@@ -9,3 +9,7 @@ The Cleo EDI Tracker allows you to view EDI messages on your system on a per mes
 [Logging In](LoggingIn.html)
 
 [Messages](Messages.html)
+
+[Activity](Activity.html)
+
+[Partners](Partners.html)
