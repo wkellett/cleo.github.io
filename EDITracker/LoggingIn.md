@@ -1,5 +1,5 @@
 ---
-layout: EDITracker
+layout: default
 title: Logging In
 ---
 # Logging In
