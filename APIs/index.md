@@ -6,7 +6,7 @@ title: Welcome to Cleo APIs
 
 Here you can find information about Cleo APIs.
 
-[Connector Java API](/Connector/index.html)
+[Connector Java API](/connector/index.html)
 
 [VersaLex REST API](http://developer.cleo.com/api/welcome.html)
 
