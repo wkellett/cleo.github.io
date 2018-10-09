@@ -8,5 +8,5 @@ Here you can find information about Cleo APIs.
 
 [Connector Java API](/cleo.github.io/APIs/connector/index.html)
 
-[VersaLex REST API](http://developer.cleo.com/api/welcome.html)
+[REST API](http://developer.cleo.com/api/welcome.html)
 
