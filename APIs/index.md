@@ -6,7 +6,7 @@ title: Welcome to Cleo APIs
 
 Here you can find information about Cleo APIs.
 
-[Connector Java API](/connector/index.html)
+[Connector Java API](APIs/connector/index.html)
 
 [REST API](http://developer.cleo.com/api/welcome.html)
 
