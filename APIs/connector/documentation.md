@@ -2,7 +2,7 @@
 layout: default
 title: Documentation
 ---
-## Cleo Java API documentation
+## Cleo Connector Java API documentation
 
 Select a version
 
