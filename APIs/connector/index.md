@@ -8,4 +8,4 @@ The Cleo Connector API allows new connector technologies to be plugged in, confi
 
 [Sample projects](SampleProjects.html)
 
-[Documentation](documentation.html)
+[Documentation](documentation.md)
