@@ -25,6 +25,7 @@ You can filter the messages displayed as follows:
 - By date -- Select a date range to display messages that were sent in that range.
 
 Each tile provides details about a single message.
+
 ![Message Tile Detail](../images/MessageDetailTile.png)
 
 There are two possible issue status icons.
@@ -62,6 +63,7 @@ The Summary tab displays detailed information about the message.
 
 ### Issue tab
 The Issue tab displays information about the issue related to the message extracted from the issue tracking system.
+
 ![Issue tab](../images/IssueTab.png)
 
 The comments from the issue are displayed in the Comments section of the Issue tab. 
